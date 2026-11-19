@@ -73,22 +73,6 @@ I enjoy solving complex engineering problems, designing efficient APIs, optimizi
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,vscode)](https://skillicons.dev)
 
-
-- Sequelize ORM
-- Database Design
-- Query Optimization
-- Database Indexing
-- Data Modeling
-- Redis Caching
-
-### ☁️ DevOps & Development Tools
-- Redis & BullMQ
-- PM2
-- CI/CD
-- Ubuntu
-- AWS S3
-- Swagger API Documentation
-
 ---
 
 ## 🧠 Core Engineering Interests
