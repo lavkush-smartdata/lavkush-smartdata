@@ -45,48 +45,33 @@ I enjoy solving complex engineering problems, designing efficient APIs, optimizi
 
 ### 💻 Programming Languages
 
-
-\
-
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
 
 ### 🎨 Frontend Development
 
-
-
-
-
-\
-
+[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,tailwind,materialui)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
 
-
-
-\
-
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express)](https://skillicons.dev)
 
 ### 🤖 AI & Automation
 
-
-
-\
-
-
-**Technologies & Concepts**
-
-- AI Voice Agents (Inbound & Outbound)
-- Generative AI Integration
+- OpenAI API
+- Google Gemini
+- Claude
 - Prompt Engineering
-- AI-powered Calling Workflows
-- SMS Automation
-- LLM API Integration
-- Conversational AI
-- Third-party API Integration
+- AI Voice Agents
+- LLM Integration
+- AI Automation
 
 ### 🗄️ Databases & Caching
 
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
 
-\
+### ☁️ DevOps & Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,vscode)](https://skillicons.dev)
 
 
 - Sequelize ORM
@@ -97,15 +82,6 @@ I enjoy solving complex engineering problems, designing efficient APIs, optimizi
 - Redis Caching
 
 ### ☁️ DevOps & Development Tools
-
-
-
-
-
-
-\
-
-
 - Redis & BullMQ
 - PM2
 - CI/CD
